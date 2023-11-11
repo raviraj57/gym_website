@@ -176,3 +176,9 @@
     right: 30rem;
    width: 15rem;
 }
+@media screen and (max-width: 768px) {
+   .hero{
+    flex-direction: column;
+    
+   } 
+}
